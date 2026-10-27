@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ===== BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gagan%20N&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20LLM%20Apps%20%7C%20MLOps&descAlignY=68" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gagan%20N&fontSize=55&fontColor=00E4FF&animation=twinkling&desc=AI%20Engineer%20%7C%20LLM%20Apps%20%7C%20MLOps&descSize=20&descAlignY=72" alt="header banner" />
 
 <!-- ===== TYPING ANIMATION ===== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+AI+agents+with+LangGraph+%F0%9F%A4%96;LLM-powered+apps+%7C+RAG+%7C+FastAPI;Turning+ideas+into+intelligent+systems+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+AI+agents+with+LangGraph+%F0%9F%A4%96;LLM-powered+apps+%7C+RAG+%7C+FastAPI;Turning+ideas+into+intelligent+systems+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -13,6 +13,7 @@
 <br/>
 
 <!-- ===== ABOUT ME ===== -->
+
 ### 👋 About me 
 
 I'm an AI/ML engineer passionate about building intelligent applications with Large Language Models. I work across the full stack — from experimenting with notebooks to deploying production-ready APIs and ML pipelines.
@@ -25,6 +26,7 @@ I'm an AI/ML engineer passionate about building intelligent applications with La
 ---
 
 <!-- ===== TECH STACK ===== -->
+
 ### 🛠️ Tech Stack
 
 **Languages & Core**
@@ -50,10 +52,11 @@ I'm an AI/ML engineer passionate about building intelligent applications with La
 ---
 
 <!-- ===== FEATURED PROJECTS ===== -->
+
 ### 🚀 Featured Projects
 
 | Project | Description |
-|---|---|
+| --- | --- |
 | 🤖 [**Langgraph-Fundamentals**](https://github.com/Gags1998/Langgraph-Fundamentals) | Multi-step AI agents built with LangGraph — state machines, tool calling & agent memory |
 | 🌦️ [**Weather.AI**](https://github.com/Gags1998/Weather.AI) | AI-powered weather assistant built in Python |
 | ⚡ [**FastAPI_Project**](https://github.com/Gags1998/FastAPI_Project) | Production-style REST APIs with FastAPI |
@@ -62,6 +65,7 @@ I'm an AI/ML engineer passionate about building intelligent applications with La
 ---
 
 <!-- ===== GITHUB STATS ===== -->
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -71,13 +75,14 @@ I'm an AI/ML engineer passionate about building intelligent applications with La
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Gags1998&theme=tokyonight&hide_border=true" alt="streak stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gags1998&theme=tokyo-night&hide_border=true&area=true" alt="contribution activity graph" />
 
 </div>
 
 ---
 
 <!-- ===== CONNECT ===== -->
+
 ### 🔗 Connect With Me
 
 <div align="center">
